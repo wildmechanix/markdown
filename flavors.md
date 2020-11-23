@@ -26,6 +26,10 @@ _You **can** combine them_
 ![MARSS Logo](https://marss.com/assets/img/svg/MarssLogo.svg)
 Format: ![MARSS logo](url)
 
+<img src="https://marss.com/assets/img/svg/MarssLogo.svg"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
+
 ```javascript
 function fancyAlert(arg) {
   if(arg) {
