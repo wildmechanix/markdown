@@ -23,10 +23,7 @@ _You **can** combine them_
 - [x] this is a complete item
 - [ ] this is an incomplete item
 
-![MARSS Logo](https://marss.com/assets/img/svg/MarssLogo.svg)
-Format: ![MARSS logo](url)
-
-<img src="https://marss.com/assets/img/svg/MarssLogo.svg"
+<img src="https://marss.com/assets/img/home/home-partner-logos-dark-1.png"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
 
