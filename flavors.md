@@ -23,8 +23,8 @@ _You **can** combine them_
 - [x] this is a complete item
 - [ ] this is an incomplete item
 
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
+![MARSS Logo](https://marss.com/assets/img/svg/MarssLogo.svg)
+Format: ![MARSS logo](url)
 
 ```javascript
 function fancyAlert(arg) {
